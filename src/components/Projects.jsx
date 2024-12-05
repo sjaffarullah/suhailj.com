@@ -83,7 +83,7 @@ const Projects = () => {
               href={project.repoUrl}
               target="_blank"
               rel="noopener noreferrer"
-              className="inline-block px-5 py-2 sm:px-6 sm:py-3 bg-[#181818] text-neutral-400 font-medium rounded-md hover:bg-[#222222] hover:text-white transition-all duration-200 shadow-md"
+              className="inline-block px-5 py-2 sm:px-6 sm:py-3 bg-neutral-900 text-white font-medium rounded-md hover:bg-neutral-800 transition-all duration-200 shadow-md"
             >
               View Code →
             </a>

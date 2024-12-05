@@ -51,7 +51,7 @@ const Hero = () => {
           <motion.div className="mt-6" variants={item}>
             <Link
               to="/about"
-              className="inline-block px-5 py-2 sm:px-6 sm:py-3 bg-[#181818] text-neutral-400 text-sm sm:text-base font-medium rounded-md hover:bg-[#222222] hover:text-white transition-all duration-200 shadow-md"
+              className="inline-block px-5 py-2 sm:px-6 sm:py-3 bg-neutral-900 text-white text-sm sm:text-base font-medium rounded-md hover:bg-neutral-800 transition-all duration-200 shadow-md"
             >
               Get to know me more →
             </Link>
