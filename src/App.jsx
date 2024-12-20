@@ -3,6 +3,7 @@ import Hero from "./components/Hero.jsx";
 import Navbar from "./components/Navbar.jsx";
 import Experience from "./components/Experience.jsx";
 import Projects from "./components/Projects.jsx";
+import Certs from "./components/Certifications.jsx";
 import TechStack from "./components/Techstack.jsx";
 import Contact from "./components/Contact.jsx";
 import Footer from "./components/Footer.jsx";
@@ -28,6 +29,7 @@ const App = () => {
                   <Hero />
                   <Experience />
                   <Projects />
+                  <Certs />
                   <TechStack />
                   <Contact />
                   <Footer />
