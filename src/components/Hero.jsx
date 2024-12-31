@@ -39,7 +39,7 @@ const Hero = () => {
             className="text-xl sm:text-2xl lg:text-3xl font-semibold text-gray-300 leading-relaxed pb-3 sm:pb-4"
             variants={item}
           >
-            Tech Enthusiast
+            Tech / AI Enthusiast
           </motion.h2>
           <motion.p
             className="text-sm sm:text-lg lg:text-xl text-gray-400 max-w-lg mx-auto lg:mx-0 leading-relaxed"
